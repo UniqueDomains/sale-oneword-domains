@@ -64,7 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| forge.sale     | available | $5.99     | $50.99        | 62             | 45     | 5      | name.com                                     |
+| forge.sale     | available | $5.99     | $50.99        | 62             | 44     | 5      | name.com                                     |
 | boss.sale      | resell    | —         | —             | 76             | 73     | 4      | DNSPod, Inc.                                 |
 | data.sale      | premium   | $1,950    | $1,950        | 70             | 56     | 4      | namecheap                                    |
 | unify.sale     | available | $5.99     | $50.99        | 72             | 38     | 5      | name.com                                     |
@@ -78,10 +78,10 @@ print(df.head())
 | game.sale      | premium   | $1,250    | $1,250        | 120            | 50     | 4      | name.com                                     |
 | resume.sale    | available | $5.99     | $50.99        | 98             | 35     | 6      | name.com                                     |
 | bot.sale       | resell    | —         | —             | 98             | 60     | 3      | Dynadot Inc                                  |
-| design.sale    | premium   | $250      | $250          | 108            | 50     | 6      | name.com                                     |
+| abc.sale       | premium   | $1,950    | $1,950        | 102            | 50     | 3      | namecheap                                    |
 | potato.sale    | available | $5.99     | —             | 76             | 35     | 6      | name.com                                     |
 | prompt.sale    | resell    | —         | —             | 114            | 58     | 6      | Sav.com, LLC - 18                            |
-| abc.sale       | premium   | $1,950    | $1,950        | 102            | 50     | 3      | namecheap                                    |
+| life.sale      | premium   | $260      | $260          | 84             | 50     | 4      | namecheap                                    |
 | nimble.sale    | available | $5.99     | $50.99        | 94             | 33     | 6      | name.com                                     |
 | better.sale    | resell    | —         | —             | 110            | 54     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
 
