@@ -1,10 +1,10 @@
-# Available .SALE One-Word Domains (12,075)
+# Available .SALE One-Word Domains (12,077)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C075%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C077%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sale one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,075 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,077 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,075 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,077 domains · **Median ask:** $47.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/sale`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| spectra.sale      | available | $5.99     | —             | 62             | 34     | 7      | name.com                                                  |
-| agents.sale       | resell    | —         | —             | 56             | 50     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| travelers.sale    | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo                                                  |
-| letsgo.sale       | available | $5.99     | —             | 57             | 31     | 7      | name.com                                                  |
-| wealth.sale       | resell    | —         | —             | 84             | 31     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| RedSox.sale       | premium   | $84       | $84           | 72             | 60     | 7      | namecheap                                                 |
-| inspiration.sale  | available | $5.99     | —             | 88             | 30     | 11     | name.com                                                  |
-| instore.sale      | resell    | —         | —             | 74             | 12     | 8      | GoDaddy.com, LLC                                          |
-| Books.sale        | premium   | $1,400    | $1,400        | 52             | 49     | 5      | namecheap                                                 |
-| commonground.sale | available | $5.99     | —             | 74             | 28     | 13     | name.com                                                  |
-| jobs.sale         | premium   | $500      | —             | 79             | 42     | 4      | name.com                                                  |
-| forms.sale        | available | $5.99     | —             | 54             | 28     | 5      | name.com                                                  |
-| Tools.sale        | premium   | $1,400    | $1,400        | 56             | 40     | 5      | namecheap                                                 |
-| gods.sale         | available | $5.99     | —             | 72             | 27     | 4      | name.com                                                  |
-| WiFi.sale         | premium   | $84       | $84           | 83             | 37     | 5      | namecheap                                                 |
-| bees.sale         | available | $5.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| stories.sale      | premium   | $123.75   | —             | 58             | 36     | 7      | name.com                                                  |
-| has.sale          | available | $5.99     | —             | 60             | 26     | 3      | name.com                                                  |
-| partners.sale     | premium   | $1,875    | —             | 61             | 32     | 8      | name.com                                                  |
-| traders.sale      | available | $5.99     | —             | 60             | 26     | 7      | name.com                                                  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| forces.sale      | available | $5.99     | —             | 82             | 12     | 6      | name.com                                                  |
+| getup.sale       | available | $5.99     | —             | 82             | 14     | 6      | name.com                                                  |
+| dogsit.sale      | available | $5.99     | —             | 96             | 2      | 6      | name.com                                                  |
+| edamame.sale     | available | $5.99     | —             | 80             | 9      | 7      | name.com                                                  |
+| gearup.sale      | available | $5.99     | —             | 80             | 16     | 7      | name.com                                                  |
+| playon.sale      | available | $5.99     | —             | 80             | 14     | 7      | name.com                                                  |
+| QandA.sale       | available | $48.98    | —             | 80             | 10     | 7      | namecheap                                                 |
+| pierogi.sale     | available | $5.99     | —             | 82             | 7      | 7      | name.com                                                  |
+| rumcake.sale     | available | $5.99     | —             | 81             | 3      | 8      | name.com                                                  |
+| beawake.sale     | available | $5.99     | —             | 84             | 3      | 8      | name.com                                                  |
+| chaitea.sale     | available | $5.99     | —             | 86             | 3      | 8      | name.com                                                  |
+| spectra.sale     | available | $5.99     | —             | 62             | 34     | 7      | name.com                                                  |
+| agents.sale      | resell    | —         | —             | 56             | 50     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| travelers.sale   | premium   | $118.80   | $118.80       | 58             | 61     | 9      | namesilo                                                  |
+| letsgo.sale      | available | $5.99     | —             | 57             | 31     | 7      | name.com                                                  |
+| wealth.sale      | resell    | —         | —             | 84             | 31     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| RedSox.sale      | premium   | $84       | $84           | 72             | 60     | 7      | namecheap                                                 |
+| inspiration.sale | available | $5.99     | —             | 88             | 30     | 11     | name.com                                                  |
+| instore.sale     | resell    | —         | —             | 74             | 12     | 8      | GoDaddy.com, LLC                                          |
+| Books.sale       | premium   | $1,400    | $1,400        | 52             | 49     | 5      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,075 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,077 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .sale domains. The extension signals promotions, commerce, discounts, or direct-response intent, so the strongest names are the ones where the word and the extension read naturally together. Examples like Gearup.sale, Useit.sale, Getup.sale, and Dogsit.sale feel more intuitive than words with weak retail or offer-based meaning. When comparing these domains, focus on how clearly the name fits a sales context, how memorable it sounds aloud, and whether the asking price justifies the term’s flexibility. The median ask is 47.35, which keeps attention on fit, clarity, and renewal discipline rather than headline pricing.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fits are words that pair naturally with .sale
+- Short, clear verbs and nouns tend to read more cleanly
+- Median ask is 47.35, so price gaps should be justified
+- Check trademark overlap before choosing brand-like terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
