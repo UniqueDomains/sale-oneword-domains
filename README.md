@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sale one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,080 domains · **Median ask:** $47.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/sale`  
 **Best for:** founders, investors, studios
 
@@ -65,14 +65,14 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | forces.sale      | available | $5.99     | —             | 82             | 12     | 6      | name.com                                                  |
-| getup.sale       | available | $5.99     | —             | 82             | 14     | 6      | name.com                                                  |
+| getup.sale       | available | $5.99     | —             | 82             | 15     | 6      | name.com                                                  |
 | dogsit.sale      | available | $5.99     | —             | 96             | 2      | 6      | name.com                                                  |
 | edamame.sale     | available | $5.99     | —             | 80             | 9      | 7      | name.com                                                  |
 | gearup.sale      | available | $5.99     | —             | 80             | 16     | 7      | name.com                                                  |
 | playon.sale      | available | $5.99     | —             | 80             | 14     | 7      | name.com                                                  |
 | QandA.sale       | available | $48.98    | —             | 80             | 10     | 7      | namecheap                                                 |
 | pierogi.sale     | available | $5.99     | —             | 82             | 7      | 7      | name.com                                                  |
-| rumcake.sale     | available | $5.99     | —             | 81             | 3      | 8      | name.com                                                  |
+| rumcake.sale     | available | $5.99     | —             | 81             | 2      | 8      | name.com                                                  |
 | beawake.sale     | available | $5.99     | —             | 84             | 3      | 8      | name.com                                                  |
 | chaitea.sale     | available | $5.99     | —             | 86             | 3      | 8      | name.com                                                  |
 | spectra.sale     | available | $5.99     | —             | 62             | 34     | 7      | name.com                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
