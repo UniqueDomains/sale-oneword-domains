@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .sale one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,080 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,080 domains · **Median ask:** $53.42 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,080 domains · **Median ask:** $53.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/sale`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/sale`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SALE one-word domain 
 
 ### Files
 
-- `sale.csv` — public CSV extract (1,000 rows)
-- `sale.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `sale.csv`, public CSV extract (1,000 rows)
+- `sale.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| familiar.sale      | available | $5.99     | —             | 90             | 19     | 8      | name.com  |
-| suntea.sale        | available | $5.99     | —             | 82             | 3      | 7      | name.com  |
-| nutritious.sale    | available | $5.99     | $50.99        | 80             | 7      | 10     | name.com  |
-| information.sale   | premium   | $118.80   | $118.80       | 84             | 28     | 11     | namesilo  |
-| here.sale          | premium   | —         | —             | 130            | 19     | 4      | —         |
-| stat.sale          | available | $5.99     | —             | 110            | 31     | 4      | name.com  |
-| coordinate.sale    | available | $5.99     | $50.99        | 108            | 19     | 10     | name.com  |
-| antibiotic.sale    | premium   | $123.75   | —             | 88             | 6      | 10     | name.com  |
-| home.sale          | premium   | —         | —             | 100            | 39     | 4      | —         |
-| bootleg.sale       | available | $5.99     | —             | 100            | 12     | 7      | name.com  |
-| ethical.sale       | available | $5.99     | —             | 94             | 25     | 7      | name.com  |
-| affect.sale        | available | $5.99     | —             | 97             | 12     | 6      | name.com  |
-| anagram.sale       | available | $5.99     | —             | 96             | 18     | 7      | name.com  |
-| adjunct.sale       | premium   | —         | —             | 100            | 5      | 7      | —         |
-| retire.sale        | available | $5.99     | —             | 100            | 19     | 6      | name.com  |
-| influence.sale     | available | $5.99     | —             | 96             | 32     | 9      | name.com  |
-| bicycle.sale       | premium   | $1,107    | $1,107        | 108            | 21     | 7      | namesilo  |
-| mexican.sale       | premium   | $118.80   | $118.80       | 84             | 23     | 7      | namesilo  |
-| dilute.sale        | premium   | —         | —             | 92             | 3      | 6      | —         |
-| cherryblossom.sale | available | $5.99     | —             | 82             | 10     | 14     | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| here.sale  | available | —         | —             | high           | low    | 4      | —                                                   |
+| gay.sale   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                            |
+| model.sale | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                            |
+| few.sale   | available | $5.99     | —             | high           | low    | 3      | name.com                                            |
+| sub.sale   | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| ADS.sale   | premium   | $500      | —             | high           | medium | 3      | name.com                                            |
+| les.sale   | available | $5.99     | —             | medium         | low    | 3      | name.com                                            |
+| wow.sale   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                         |
+| arm.sale   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                            |
+| let.sale   | available | $5.99     | —             | high           | low    | 3      | name.com                                            |
+| call.sale  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| bed.sale   | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
+| mid.sale   | available | $5.99     | —             | high           | low    | 3      | name.com                                            |
+| core.sale  | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc.                                        |
+| boy.sale   | premium   | $123.75   | —             | medium         | low    | 3      | name.com                                            |
+| MMR.sale   | available | $5.99     | —             | high           | low    | 3      | name.com                                            |
+| deep.sale  | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
+| egg.sale   | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo                                            |
+| rag.sale   | available | $5.99     | $50.99        | medium         | low    | 3      | name.com                                            |
+| edge.sale  | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .sale domains. The extension signals promotions, commerce, discounts, or direct-response intent, so the strongest names are the ones where the word and the extension read naturally together. Examples like Gearup.sale, Useit.sale, Getup.sale, and Dogsit.sale feel more intuitive than words with weak retail or offer-based meaning. When comparing these domains, focus on how clearly the name fits a sales context, how memorable it sounds aloud, and whether the asking price justifies the term’s flexibility. The median ask is 47.35, which keeps attention on fit, clarity, and renewal discipline rather than headline pricing.
+This selection covers 12,080 one-word domain names registered under .sale, with a median asking price near $53. The names range from common English words to short slang terms, all built for fast recognition in commerce-driven contexts. When comparing these domains, weigh asking price against word familiarity, brand fit, and trademark risk before committing to a name.
 
-- Best fits are words that pair naturally with .sale
-- Short, clear verbs and nouns tend to read more cleanly
-- Median ask is 47.35, so price gaps should be justified
-- Check trademark overlap before choosing brand-like terms
+- 12,080 one-word .sale domains in this list
+- Median asking price near $53 across the set
+- Short, dictionary-style names built for quick recall
+- Spans everyday words, slang, and niche terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
