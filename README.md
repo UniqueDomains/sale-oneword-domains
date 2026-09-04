@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sale one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,373 domains · **Median ask:** $32.22 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-04
 **Canonical page:** `https://unique.domains/domains/tld/sale`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| here.sale | available | —         | —             | high           | low    | 4      | —                                                   |
 | few.sale  | available | $5.99     | —             | high           | low    | 3      | name.com                                            |
 | sub.sale  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | ADS.sale  | premium   | $500      | —             | high           | medium | 3      | name.com                                            |
@@ -83,7 +84,6 @@ print(df.head())
 | edge.sale | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | gay.sale  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                            |
 | RGB.sale  | available | $5.99     | —             | medium         | low    | 3      | name.com                                            |
-| plus.sale | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALE One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
